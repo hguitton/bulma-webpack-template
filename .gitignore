@@ -1,0 +1,21 @@
+.DS_Store
+# Dependency directories
+node_modules/
+jspm_packages/
+
+#Local node_modules tree
+package-lock.json
+
+# Public folder
+public
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
